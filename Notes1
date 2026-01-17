@@ -1,0 +1,30 @@
+Taken notes from the given file
+
+- on-premise storage equipment
+- full employee equipments
+- storefront products
+- warehouse
+- IT team (management of software, systems)
+- management of services
+- internet access
+- internal network
+- data retention, storage
+- legacy system maintenance
+- inadeuate management of assets
+- not have all proper controls in place, not be fully compliant with U.S. and international regulations and standards
+- risk score is 8 out of 10, due to lack of controls and adherence
+- all employees have access to internally stored data (cardholder data and customers’ PII/SPII)
+- Encryption is not currently used for customers’ credit card informatio
+- least privilege and seperation of duites have not been implemented
+- availability and integrity are ensured
+- firewall is available to block traffic 
+- antivirus is also available, and monitored regularly 
+- IDS has not installaed
+- no disaster recovery plan
+- no backups of critical data
+- plan to notify EU customers within 72 hours, if there is a security breach
+- privacy policies, procedures and processes have been developed 
+- password policy exists, but requirements are nominal and not suitable for minimum password complexity requirements
+- no centrized password management system 
+- no regular schedule for tasks, and intervention methods are unclear
+- main office, storefront, warehouse of products, sufficient locks, up to date CCTV surveillance, fire detection and prevention systems
